@@ -1,0 +1,2 @@
+# Supermarket_pricing_system
+基于Linux/C语言实现的超市计价系统
